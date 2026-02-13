@@ -1,0 +1,144 @@
+<html>
+<head>
+  <title>Laxmi Chaitanya Agarbathi Store</title>
+  <style>
+    
+    body 
+    {
+      background-color: floralWhite; 
+      color: maroon;           
+      font-family: Georgia, serif;
+      line-height: 1.8;
+      margin: 0;
+    }
+
+   
+    header 
+    {
+      background-color: gold;
+      color: maroon;
+      text-align: center;
+      font-size: 22px;
+      margin:0px;
+    }
+
+   
+    nav 
+   {
+      text-align: center;
+      padding: 20px;
+      font-size: 18px;
+    }
+
+    nav a 
+   {
+      text-decoration: none;
+      margin: 10px;
+      color: blue; 
+      font-weight: bold;
+    }
+
+    nav a:hover 
+   {
+      color: gold; 
+    }
+
+  
+    section 
+   {
+      padding: 20px;
+    }
+
+    h2 
+   {
+      text-align: left;
+      font-size: 24px;
+      border-bottom: 2px;
+      border-bottom-style:solid;
+      border-bottom-color:gold;
+      display:inline-block;
+     }
+ 
+    ul 
+   {
+      list-style-type: square;
+     
+    }
+
+    footer 
+   {
+      background-color: gold;
+      color: maroon;
+      text-align: center;
+      padding: 20px;
+      font-family: Georgia;
+    }
+
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>LAXMI CHAITANYA AGARBATHI STORE</h1>
+    <p><i>"May your devotion be blessed with peace and prosperity"</i></p>
+  </header>
+
+  <nav>
+    <a href="#home">HOME</a>
+    <a href="#products">PRODUCTS</a>
+    <a href="#about">ABOUT</a>
+    <a href="#contact">CONTACT</a>
+  </nav>
+
+ 
+    <section id="home">
+      <h2>HOME</h2>
+      <p>
+        Namaste! Welcome to our Pooja Store, your one-stop destination for all sacred and spiritual items.
+        We provide fresh flowers, puja samagri, idols, agarbattis, and everything needed to make your worship complete and divine.
+      </p>
+    </section>
+
+    <section id="products">
+      <h2>PRODUCTS</h2>
+      <ul>
+        <li>Kumkum, Turmeric</li>
+        <li>Agarbatti</li>
+        <li>Diyas</li>
+        <li>Swastik Camphor</li>
+        <li>Dhoop sticks</li>
+        <li>Rose water</li>
+        <li>Flags</li>
+        <li>Ghee</li>
+        <li>Photo frames of gods</li>
+        <li>Brass items</li>
+        <li>Pooja oil</li>
+        <li>Loban</li>
+      </ul>
+    </section>
+
+    <section id="about">
+      <h2>ABOUT US</h2>
+      <p>
+        Established in 2001, our Pooja Store is your trusted source for all puja essentials — available at both wholesale and retail prices.<br>
+        We take great care in packaging to ensure that every product reaches you in perfect condition.<br><br>
+        We also offer <strong>door delivery</strong> for your convenience.<br><br>
+        <strong>📍 Visit us at:</strong><br>
+        Glass House Center, Main Road, Kakinada – 533001<br>
+        (3rd shop after the Juice Shop)
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>CONTACT US</h2>
+      <p><strong>Phone:</strong> 9989768852</p>
+      <p><strong>Email:</strong> bharathraghu@gmail.com</p>
+    </section>
+  
+
+  <footer>
+    <h2>All Rights Reserved © Laxmi Chaitanya Agarbathi Store</h2>
+  </footer>
+
+</body>
+</html>
